@@ -1,0 +1,17 @@
+/* src/index.css */
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #efa958;
+}
+
+h3 {
+  margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+  .appliance-control {
+    width: 100%;
+  }
+}
